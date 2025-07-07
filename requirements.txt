@@ -1,0 +1,14 @@
+streamlit
+underthesea
+gensim
+imblearn
+hdbscan
+wordcloud
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+openpyxl
+scipy==1.10.1
